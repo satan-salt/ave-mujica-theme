@@ -4,6 +4,8 @@ The background is based on the band's colors, with a color scheme for each token
 The language is intended for Python.
 
 # Preview
+![image](https://github.com/user-attachments/assets/523b8450-3941-43aa-ad19-221d0aeb0020)
+
 
 
 **Welcome to AveMujica's Masquerade!**
