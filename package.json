@@ -1,0 +1,25 @@
+{
+  "name": "ave-mujica-theme",
+  "displayName": "Ave Mujica Theme",
+  "description": "Welcome to AveMujica's Masquerade.What you are about to see is the story of a girl with a secret.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satan-salt/ave-mujica-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "AveMujica's color theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AveMujica's color theme-color-theme.json"
+      }
+    ]
+  }
+}
